@@ -1,0 +1,51 @@
+.main-div{
+	display: flex;
+	justify-content: space-evenly;
+	height: 500px;
+	overflow: hidden;
+}
+div{
+	display: flex;
+    align-items: center;
+    padding: 60px;
+    font-size: 30px;
+}
+p{
+	padding: 25px;
+}
+.div1{
+	background-color: black;
+	color: white;
+	width: 50%;
+	border-top-right-radius: 50%;
+	border-bottom-right-radius: 50%;
+}
+.div2{
+	background-color: white;
+	color: black;
+	width: 50%;
+}
+.div3{
+	background-color: white;
+	color: black;
+	width: 50%;
+}
+.div4{
+	background-color: black;
+	color: white;
+	width: 50%;
+	border-top-left-radius: 50%;
+	border-bottom-left-radius: 50%;
+}
+.div5{
+    background-color: black;
+	color: white;
+	width: 50%;
+	border-top-right-radius: 50%;
+	border-bottom-right-radius: 50%;
+}
+.div6{
+	background-color: white;
+	color: black;
+	width: 50%;
+}
